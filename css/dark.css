@@ -1,0 +1,41 @@
+body {
+  background-color: #1a1a1a !important;
+  color: #dcdcdc !important;
+  font-family: "Montserrat", sans-serif !important;
+}
+
+form {
+  background-color: #333;
+  color: #dcdcdc;
+  border-radius: 0.2rem;
+  border: 1px solid #555;
+}
+
+.boton {
+  background-color: #d2006e;
+  color: #fff;
+}
+
+input {
+  background-color: #2d2d2d;
+  color: #dcdcdc;
+}
+
+input::placeholder {
+  color: #888;
+}
+
+label {
+  color: #bbb;
+}
+
+.container_input_label {
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.error-message {
+  color: #fe53ac;
+  font-size: 15px;
+  margin-top: 0.6rem;
+}
